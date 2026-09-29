@@ -31,8 +31,8 @@ You just need Python 3 installed on your computer.
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/juanosebastian/student-task-manager.git
-   cd student-task-manager
+   git clone https://github.com/juanosebastian/26MIM10062-Student_Task_Manager.git
+   cd main
    ```
 
 2. Make sure `tasks.txt` is in the same directory (create an empty `tasks.txt` file if it isn't there).
