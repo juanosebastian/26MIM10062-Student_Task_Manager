@@ -33,12 +33,15 @@ You just need Python 3 installed on your computer.
    ```bash
    git clone https://github.com/juanosebastian/26MIM10062-Student_Task_Manager.git
    ```
-2.Navigate to the project folder
-cd main
+   
+2. Navigate to the project folder
+   ```
+   cd main
+   ```
+   
+4. Make sure `tasks.txt` is in the same directory (create an empty `tasks.txt` file if it isn't there).
 
-3. Make sure `tasks.txt` is in the same directory (create an empty `tasks.txt` file if it isn't there).
-
-4. Run `main.py`:
+5. Run `main.py`:
    ```bash
    python main.py
    ```
